@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
-<h4 align="center">A passionate software engineer interested in designing and developing software products.</h4>
+<!--<h4 align="center">A passionate software engineer interested in designing and developing software products.</h4>--!>
 
 <!--
 <h4 align="left">Connect with me:</h4>
